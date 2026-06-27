@@ -1,6 +1,6 @@
 cask "bleunlock" do
   version "1.14.3"
-  sha256 "c1e921fd2413d3185d74ff28961239a34a9c3c394547ea75076f319eb451943b"
+  sha256 "ae6515a00f790f8018d90e50877a118e9e6d979107a780aa147045532ff5d9e5"
 
   url "https://github.com/Skyearn/BLEUnlock/releases/download/v#{version}/BLEUnlock-v#{version}.dmg"
   name "BLEUnlock"
